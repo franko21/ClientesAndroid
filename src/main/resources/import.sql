@@ -1,0 +1,10 @@
+insert into clientes(nombre,apellido,email,fec_reg) values ('Ariel', 'Guaman', 'arielg@gmail.com','2023-01-01');
+insert into clientes(nombre,apellido,email,fec_reg) values ('Patricio', 'Estrella', 'pa@hotmail.com','2023-01-01');
+insert into clientes(nombre,apellido,email,fec_reg) values ('Luis', 'Villa', 'villa@hotmail.com','2023-01-01');
+insert into clientes(nombre,apellido,email,fec_reg) values ('Tomas', 'Erazo', 'tomas@hotmail.com','2023-01-01');
+insert into clientes(nombre,apellido,email,fec_reg) values ('Daniela', 'Rosero', 'danny@hotmail.com','2023-01-01');
+INSERT INTO clientes (nombre, apellido, email, fec_reg) VALUES ('Juan', 'Perez', 'juan@gmail.com', '2023-01-02');
+INSERT INTO clientes (nombre, apellido, email, fec_reg) VALUES ('María', 'González', 'maria@yahoo.com', '2023-01-03');
+INSERT INTO clientes (nombre, apellido, email, fec_reg) VALUES ('Carlos', 'López', 'carlos@gmail.com', '2023-01-04');
+INSERT INTO clientes (nombre, apellido, email, fec_reg) VALUES ('Laura', 'Martínez', 'laura@hotmail.com', '2023-01-05');
+INSERT INTO clientes (nombre, apellido, email, fec_reg) VALUES ('Roberto', 'García', 'roberto@yahoo.com', '2023-01-06');
